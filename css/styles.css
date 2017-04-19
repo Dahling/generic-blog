@@ -1,0 +1,23 @@
+.main {
+  margin: 0 50px;
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: justify;
+}
+
+.about-author {
+  margin: 0 50px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.right {
+  float: right;
+  display: block;
+}
+
+p.middle {
+  margin-right: 100px;
+  border: 2px solid black;
+  clear: right;
+}
